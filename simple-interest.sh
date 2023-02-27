@@ -6,7 +6,7 @@
 
    # Author: Priscilla Moncrieffe
    # Additional Authors:
-   # <your GitHub username> Pily28
+   # Username: Pily28
 
    # Input:
    # p, principal amount
